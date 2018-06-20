@@ -9,6 +9,6 @@
             "email": "sevenfolder@ya.ru"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require": {}
 }

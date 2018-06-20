@@ -1,0 +1,14 @@
+{
+    "name": "romansev/bitrix_empty_module",
+    "description": "Empty module D7 for Bitrix Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [k
+        {
+            "name": "Romansev",
+            "email": "sevenfolder@ya.ru"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}

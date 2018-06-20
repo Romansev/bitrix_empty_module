@@ -3,7 +3,7 @@
     "description": "Empty module D7 for Bitrix Framework",
     "type": "library",
     "license": "MIT",
-    "authors": [k
+    "authors": [
         {
             "name": "Romansev",
             "email": "sevenfolder@ya.ru"
